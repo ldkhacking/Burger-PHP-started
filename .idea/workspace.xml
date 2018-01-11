@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/index.php" description="                &lt;div class=&quot;row register-form&quot;&gt;&#10;  ..." line="315" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bd04663-824a-4ee2-b92c-5fb7999e0434" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8001">
+              <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="390" selection-end-column="18" />
+              <folding>
+                <marker date="1514566462610" expanded="true" signature="1289:1328" ph="SELECT login... users" />
+                <marker date="1514566462610" expanded="true" signature="1846:1885" ph="SELECT email... users" />
+                <marker date="1514566462610" expanded="true" signature="2528:2593" ph="INSERT INTO users... " />
+                <marker date="1514566462610" expanded="true" signature="3198:3256" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_admin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/administration/index_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1181">
+              <caret line="496" column="46" lean-forward="false" selection-start-line="496" selection-start-column="46" selection-end-line="496" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#span#0;n#form#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#form#0;n#div#0;n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1515623911356" expanded="true" signature="353:390" ph="SELECT * FRO... admin" />
+                <marker date="1515623911356" expanded="true" signature="353:391" ph="SELECT * FRO... admin" />
+                <marker date="1515623911356" expanded="true" signature="870:914" ph="SELECT login... users" />
+                <marker date="1515623911356" expanded="true" signature="1610:1652" ph="SELECT login... users" />
+                <marker date="1515623911356" expanded="true" signature="12634:12675" ph="SELECT COUNT... users" />
+                <marker date="1515623911356" expanded="true" signature="13446:13470" ph="SELECT * FRO... categories" />
+                <marker date="1515623911356" expanded="true" signature="13701:13838" ph="select count... items" />
+                <marker date="1515623911356" expanded="true" signature="15225:15272" ph="SELECT COUNT... admin" />
+                <marker date="1515623911356" expanded="true" signature="15830:15859" ph="SELECT * FRO... admin" />
+                <marker date="1515623911356" expanded="true" signature="15961:16039" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/list_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="388" column="50" lean-forward="false" selection-start-line="388" selection-start-column="50" selection-end-line="388" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1515623911287" expanded="true" signature="327:365" ph="SELECT * FRO... admin" />
+                <marker date="1515623911287" expanded="true" signature="844:888" ph="SELECT login... users" />
+                <marker date="1515623911287" expanded="true" signature="1584:1626" ph="SELECT login... users" />
+                <marker date="1515623911287" expanded="true" signature="2992:3012" ph="..." />
+                <marker date="1515623911287" expanded="true" signature="11360:11379" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recherche.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/recherche.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="34" column="71" lean-forward="true" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
+              <folding>
+                <marker date="1515114796011" expanded="true" signature="263:302" ph="SELECT * FRO... admin" />
+                <marker date="1515114796011" expanded="true" signature="263:303" ph="SELECT * FRO... admin" />
+                <marker date="1515114796011" expanded="true" signature="263:304" ph="SELECT * FRO... admin" />
+                <marker date="1515114796011" expanded="true" signature="263:306" ph="SELECT * FRO... admin" />
+                <marker date="1515114796011" expanded="true" signature="263:346" ph="SELECT * FRO... admin" />
+                <marker date="1515114796011" expanded="true" signature="774:794" ph="..." />
+                <marker date="1515114796011" expanded="true" signature="883:1485" ph="..." />
+                <marker date="1515114796011" expanded="true" signature="946:984" ph="SELECT * FRO... users" />
+                <marker date="1515114796011" expanded="true" signature="1447:1485" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send_mail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/send_mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="432" column="38" lean-forward="false" selection-start-line="432" selection-start-column="38" selection-end-line="432" selection-end-column="38" />
+              <folding>
+                <element signature="e#523#1226#0#PHP" expanded="false" />
+                <element signature="e#1265#1952#0#PHP" expanded="false" />
+                <element signature="e#1982#2984#0#PHP" expanded="false" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1515623815816" expanded="true" signature="363:401" ph="SELECT * FRO... admin" />
+                <marker date="1515623815816" expanded="true" signature="880:924" ph="SELECT login... users" />
+                <marker date="1515623815816" expanded="true" signature="1620:1662" ph="SELECT login... users" />
+                <marker date="1515623815816" expanded="true" signature="4630:4650" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modifier_user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/modifier_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2961">
+              <caret line="186" column="24" lean-forward="false" selection-start-line="186" selection-start-column="24" selection-end-line="186" selection-end-column="84" />
+              <folding>
+                <element signature="e#875#1008#0#PHP" expanded="false" />
+                <element signature="e#1043#1188#0#PHP" expanded="false" />
+                <element signature="e#1222#1700#0#PHP" expanded="false" />
+                <element signature="e#1355#1700#0#PHP" expanded="false" />
+                <element signature="e#1734#2238#0#PHP" expanded="false" />
+                <element signature="e#1893#2238#0#PHP" expanded="false" />
+                <element signature="e#2278#2758#0#PHP" expanded="false" />
+                <element signature="e#2596#2752#0#PHP" expanded="false" />
+                <marker date="1514564226061" expanded="true" signature="2444:2503" ph="SELECT passw... users" />
+                <marker date="1514564226061" expanded="true" signature="3080:3157" ph="UPDATE users... " />
+                <marker date="1514564226061" expanded="true" signature="5259:5301" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="suprimer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/suprimer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <marker date="1514563501002" expanded="true" signature="272:305" ph="DELETE FROM users... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="liste_admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/liste_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="329" column="68" lean-forward="true" selection-start-line="329" selection-start-column="68" selection-end-line="329" selection-end-column="68" />
+              <folding>
+                <marker date="1515623784136" expanded="true" signature="327:365" ph="SELECT * FRO... admin" />
+                <marker date="1515623784136" expanded="true" signature="844:888" ph="SELECT login... users" />
+                <marker date="1515623784136" expanded="true" signature="1584:1626" ph="SELECT login... users" />
+                <marker date="1515623784136" expanded="true" signature="11435:11454" ph="SELECT * FRO... admin" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <marker date="1514673769913" expanded="true" signature="337:384" ph="SELECT * FRO... admin" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inscription_admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administration/inscription_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+              <folding>
+                <element signature="n#chaine_aleatoire#0;n#!!top" expanded="false" />
+                <element signature="n#checkInput#0;n#!!top" expanded="false" />
+                <marker date="1514671046924" expanded="true" signature="490:538" ph="SELECT * FRO... admin" />
+                <marker date="1514671046924" expanded="true" signature="1688:1733" ph="SELECT usern... admin" />
+                <marker date="1514671046924" expanded="true" signature="2129:2168" ph="SELECT email... admin" />
+                <marker date="1514671046924" expanded="true" signature="2600:2641" ph="SELECT code_... admin" />
+                <marker date="1514671046924" expanded="true" signature="3876:3942" ph="INSERT INTO users... " />
+                <marker date="1514671046924" expanded="true" signature="3876:3950" ph="INSERT INTO admin... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1.jpg</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index_register.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/register/index.php" />
+        <option value="$PROJECT_DIR$/admin/deconnec.php" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index_burger.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/js/jquery.backstretch.js" />
+        <option value="$PROJECT_DIR$/index_test.html" />
+        <option value="$PROJECT_DIR$/admin/update.php" />
+        <option value="$PROJECT_DIR$/admin/database.php" />
+        <option value="$PROJECT_DIR$/admin/style.css" />
+        <option value="$PROJECT_DIR$/admin/edit.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/administration/script_admin.js" />
+        <option value="$PROJECT_DIR$/administration/style.css" />
+        <option value="$PROJECT_DIR$/administration/deconexion.php" />
+        <option value="$PROJECT_DIR$/administration/copy.html" />
+        <option value="$PROJECT_DIR$/admin/insert.php" />
+        <option value="$PROJECT_DIR$/administration/suprimer.php" />
+        <option value="$PROJECT_DIR$/administration/inscription.php" />
+        <option value="$PROJECT_DIR$/administration/modifier_user.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/liste_admin.php" />
+        <option value="$PROJECT_DIR$/administration/supprimer_admin.php" />
+        <option value="$PROJECT_DIR$/administration/inscription_admin.php" />
+        <option value="$PROJECT_DIR$/administration/index.php" />
+        <option value="$PROJECT_DIR$/administration/recherche.php" />
+        <option value="$PROJECT_DIR$/administration/liste_admin.php" />
+        <option value="$PROJECT_DIR$/administration/send_mail.php" />
+        <option value="$PROJECT_DIR$/administration/list_user.php" />
+        <option value="$PROJECT_DIR$/administration/index_admin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="176" />
+    <option name="width" value="1751" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Burger-PHP-started" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Burger-PHP-started" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Burger-PHP-started" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Burger-PHP-started" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="administration" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Burger-PHP-started\administration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bd04663-824a-4ee2-b92c-5fb7999e0434" name="Default" comment="" />
+      <created>1513559262732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513559262732</updated>
+      <workItem from="1513559263950" duration="1599000" />
+      <workItem from="1513589328937" duration="31645000" />
+      <workItem from="1513695118097" duration="3088000" />
+      <workItem from="1513932598527" duration="6468000" />
+      <workItem from="1514040662177" duration="845000" />
+      <workItem from="1514481585585" duration="71439000" />
+      <workItem from="1514834110989" duration="1324000" />
+      <workItem from="1515075351587" duration="10409000" />
+      <workItem from="1515622224600" duration="1780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128597000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="176" y="0" width="1751" height="1038" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08238806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/administration/send_mail.php</url>
+          <line>58</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/administration/modifier_user.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/img/backgrounds/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="77" lean-forward="false" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="264" column="13" lean-forward="true" selection-start-line="264" selection-start-column="13" selection-end-line="264" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="264" column="13" lean-forward="true" selection-start-line="264" selection-start-column="13" selection-end-line="264" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.php" />
+    <entry file="file://$PROJECT_DIR$/index_register.php" />
+    <entry file="file://$PROJECT_DIR$/register/index.php" />
+    <entry file="file://$PROJECT_DIR$/admin/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/backgrounds/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.backstretch.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-1.11.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/placeholder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/form-elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.backstretch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pop/1.png" />
+    <entry file="file://$PROJECT_DIR$/admin/pop/index.php" />
+    <entry file="file://$PROJECT_DIR$/admin/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="112" column="1" lean-forward="false" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/script_admin.js" />
+    <entry file="file://$PROJECT_DIR$/administration/style.css" />
+    <entry file="file://$PROJECT_DIR$/admin/deconnec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/deconexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_burger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="97" column="38" lean-forward="false" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/copy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2373">
+          <caret line="113" column="7" lean-forward="true" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="125" column="16" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3234">
+          <caret line="154" column="48" lean-forward="false" selection-start-line="154" selection-start-column="48" selection-end-line="154" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8001">
+          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="390" selection-end-column="18" />
+          <folding>
+            <marker date="1514566462610" expanded="true" signature="1289:1328" ph="SELECT login... users" />
+            <marker date="1514566462610" expanded="true" signature="1846:1885" ph="SELECT email... users" />
+            <marker date="1514566462610" expanded="true" signature="2528:2593" ph="INSERT INTO users... " />
+            <marker date="1514566462610" expanded="true" signature="3198:3256" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/suprimer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1514563501002" expanded="true" signature="272:305" ph="DELETE FROM users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/modifier_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2961">
+          <caret line="186" column="24" lean-forward="false" selection-start-line="186" selection-start-column="24" selection-end-line="186" selection-end-column="84" />
+          <folding>
+            <element signature="e#875#1008#0#PHP" expanded="false" />
+            <element signature="e#1043#1188#0#PHP" expanded="false" />
+            <element signature="e#1222#1700#0#PHP" expanded="false" />
+            <element signature="e#1355#1700#0#PHP" expanded="false" />
+            <element signature="e#1734#2238#0#PHP" expanded="false" />
+            <element signature="e#1893#2238#0#PHP" expanded="false" />
+            <element signature="e#2278#2758#0#PHP" expanded="false" />
+            <element signature="e#2596#2752#0#PHP" expanded="false" />
+            <marker date="1514564226061" expanded="true" signature="2444:2503" ph="SELECT passw... users" />
+            <marker date="1514564226061" expanded="true" signature="3080:3157" ph="UPDATE users... " />
+            <marker date="1514564226061" expanded="true" signature="5259:5301" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/supprimer_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/inscription_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="n#chaine_aleatoire#0;n#!!top" expanded="false" />
+            <element signature="n#checkInput#0;n#!!top" expanded="false" />
+            <marker date="1514671046924" expanded="true" signature="490:538" ph="SELECT * FRO... admin" />
+            <marker date="1514671046924" expanded="true" signature="1688:1733" ph="SELECT usern... admin" />
+            <marker date="1514671046924" expanded="true" signature="2129:2168" ph="SELECT email... admin" />
+            <marker date="1514671046924" expanded="true" signature="2600:2641" ph="SELECT code_... admin" />
+            <marker date="1514671046924" expanded="true" signature="3876:3942" ph="INSERT INTO users... " />
+            <marker date="1514671046924" expanded="true" signature="3876:3950" ph="INSERT INTO admin... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1514673769913" expanded="true" signature="337:384" ph="SELECT * FRO... admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/recherche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="34" column="71" lean-forward="true" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
+          <folding>
+            <marker date="1515114796011" expanded="true" signature="263:302" ph="SELECT * FRO... admin" />
+            <marker date="1515114796011" expanded="true" signature="263:303" ph="SELECT * FRO... admin" />
+            <marker date="1515114796011" expanded="true" signature="263:304" ph="SELECT * FRO... admin" />
+            <marker date="1515114796011" expanded="true" signature="263:306" ph="SELECT * FRO... admin" />
+            <marker date="1515114796011" expanded="true" signature="263:346" ph="SELECT * FRO... admin" />
+            <marker date="1515114796011" expanded="true" signature="774:794" ph="..." />
+            <marker date="1515114796011" expanded="true" signature="883:1485" ph="..." />
+            <marker date="1515114796011" expanded="true" signature="946:984" ph="SELECT * FRO... users" />
+            <marker date="1515114796011" expanded="true" signature="1447:1485" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/liste_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="329" column="68" lean-forward="true" selection-start-line="329" selection-start-column="68" selection-end-line="329" selection-end-column="68" />
+          <folding>
+            <marker date="1515623784136" expanded="true" signature="327:365" ph="SELECT * FRO... admin" />
+            <marker date="1515623784136" expanded="true" signature="844:888" ph="SELECT login... users" />
+            <marker date="1515623784136" expanded="true" signature="1584:1626" ph="SELECT login... users" />
+            <marker date="1515623784136" expanded="true" signature="11435:11454" ph="SELECT * FRO... admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/send_mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="432" column="38" lean-forward="false" selection-start-line="432" selection-start-column="38" selection-end-line="432" selection-end-column="38" />
+          <folding>
+            <element signature="e#523#1226#0#PHP" expanded="false" />
+            <element signature="e#1265#1952#0#PHP" expanded="false" />
+            <element signature="e#1982#2984#0#PHP" expanded="false" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1515623815816" expanded="true" signature="363:401" ph="SELECT * FRO... admin" />
+            <marker date="1515623815816" expanded="true" signature="880:924" ph="SELECT login... users" />
+            <marker date="1515623815816" expanded="true" signature="1620:1662" ph="SELECT login... users" />
+            <marker date="1515623815816" expanded="true" signature="4630:4650" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/list_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="388" column="50" lean-forward="false" selection-start-line="388" selection-start-column="50" selection-end-line="388" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1515623911287" expanded="true" signature="327:365" ph="SELECT * FRO... admin" />
+            <marker date="1515623911287" expanded="true" signature="844:888" ph="SELECT login... users" />
+            <marker date="1515623911287" expanded="true" signature="1584:1626" ph="SELECT login... users" />
+            <marker date="1515623911287" expanded="true" signature="2992:3012" ph="..." />
+            <marker date="1515623911287" expanded="true" signature="11360:11379" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administration/index_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1181">
+          <caret line="496" column="46" lean-forward="false" selection-start-line="496" selection-start-column="46" selection-end-line="496" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#form#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#form#0;n#div#0;n#div#2;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#3;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1515623911356" expanded="true" signature="353:390" ph="SELECT * FRO... admin" />
+            <marker date="1515623911356" expanded="true" signature="353:391" ph="SELECT * FRO... admin" />
+            <marker date="1515623911356" expanded="true" signature="870:914" ph="SELECT login... users" />
+            <marker date="1515623911356" expanded="true" signature="1610:1652" ph="SELECT login... users" />
+            <marker date="1515623911356" expanded="true" signature="12634:12675" ph="SELECT COUNT... users" />
+            <marker date="1515623911356" expanded="true" signature="13446:13470" ph="SELECT * FRO... categories" />
+            <marker date="1515623911356" expanded="true" signature="13701:13838" ph="select count... items" />
+            <marker date="1515623911356" expanded="true" signature="15225:15272" ph="SELECT COUNT... admin" />
+            <marker date="1515623911356" expanded="true" signature="15830:15859" ph="SELECT * FRO... admin" />
+            <marker date="1515623911356" expanded="true" signature="15961:16039" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
